@@ -26,7 +26,7 @@ And the realtionship between calorie burn and exercise intensity. Based on this 
 
 
 
-##My Conclusions
+## My Conclusions
 There appears to be a relationship between minutes spent sedentary and total daily calories burned when someone is sedentary for over 1000 minutes a day.
 People tend to take the most steps between the hours of 6PM and 7PM, and take very few steps betwwen 9PM and 6AM.
 The higher the average intensity of an activity, the more calories an individual will burn during that activity.
